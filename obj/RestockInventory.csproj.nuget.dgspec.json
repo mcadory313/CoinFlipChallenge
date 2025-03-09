@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christophermcadory/Desktop/RestockInventory/RestockInventory.csproj": {}
+    "/Users/christophermcadory/Desktop/CoinFlipChallenge/CoinFlipChallenge/RestockInventory.csproj": {}
   },
   "projects": {
-    "/Users/christophermcadory/Desktop/RestockInventory/RestockInventory.csproj": {
+    "/Users/christophermcadory/Desktop/CoinFlipChallenge/CoinFlipChallenge/RestockInventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christophermcadory/Desktop/RestockInventory/RestockInventory.csproj",
+        "projectUniqueName": "/Users/christophermcadory/Desktop/CoinFlipChallenge/CoinFlipChallenge/RestockInventory.csproj",
         "projectName": "RestockInventory",
-        "projectPath": "/Users/christophermcadory/Desktop/RestockInventory/RestockInventory.csproj",
+        "projectPath": "/Users/christophermcadory/Desktop/CoinFlipChallenge/CoinFlipChallenge/RestockInventory.csproj",
         "packagesPath": "/Users/christophermcadory/.nuget/packages/",
-        "outputPath": "/Users/christophermcadory/Desktop/RestockInventory/obj/",
+        "outputPath": "/Users/christophermcadory/Desktop/CoinFlipChallenge/CoinFlipChallenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/christophermcadory/.nuget/NuGet/NuGet.Config"
